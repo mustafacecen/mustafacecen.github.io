@@ -1,6 +1,12 @@
-a, .text-primary {
+a{color: white !important;
+
+	} 
+.text-primary {
   color: #024b5c !important;
   }
 .bg-primary{
 background-color: #024b5c !important;	
+}
+.social-icons .social-icon:hover{
+	background-color: #024b5c !important;
 }
