@@ -15,6 +15,6 @@ a.i{
 color: white !important;
 }
 .svg-inline--fa {
-	color: white !important;
+	color: transparent; !important;
     overflow: visible;
 }
