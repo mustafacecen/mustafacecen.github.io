@@ -15,11 +15,12 @@ background-color: #024b5c !important;
 	background-color: blue !important;
 }
 
-.social-icon {
-background-color: white !important;	
-}
 
 .navbar-dark .navbar-nav .nav-link {
     color: white !important;
 }
 
+
+.svg-inline--fa.fa-w-14 {
+    color: white !important;
+}
