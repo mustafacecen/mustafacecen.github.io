@@ -10,10 +10,11 @@ background-color: #024b5c !important;
 .social-icons .social-icon:hover{
 	background-color: white !important;
 }
-.social-icons ul li a{
-	background-color: white !important;
-	color: white !important;
-}
+
 a.i{
 color: white !important;
+}
+.svg-inline--fa {
+	color: white !important;
+    overflow: visible;
 }
