@@ -15,6 +15,10 @@ background-color: #024b5c !important;
 	background-color: blue !important;
 }
 
+.social-icon {
+background-color: black !important;	
+}
+
 
 .navbar-dark .navbar-nav .nav-link {
     color: white !important;
