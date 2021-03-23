@@ -24,7 +24,7 @@ background-color: #024b5c !important;
     color: white !important;
 }
 
-.fa-li {
-    color: none !important;
+span.fa-li {
+	color: black !important;
 }
 
