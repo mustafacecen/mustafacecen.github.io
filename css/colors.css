@@ -23,3 +23,8 @@ background-color: #024b5c !important;
 .navbar-dark .navbar-nav .nav-link {
     color: white !important;
 }
+
+.fa-li {
+    color: transparent !important;
+}
+
