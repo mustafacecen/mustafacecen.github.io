@@ -10,8 +10,8 @@ background-color: #024b5c !important;
 .social-icons .social-icon:hover{
 	background-color: white !important;
 }
-.social-icons .social-icon:primary{
-	color: white !important;
+.social-icons-primary{
+	background-color: white !important;
 }
 a.i{
 color: white !important;
