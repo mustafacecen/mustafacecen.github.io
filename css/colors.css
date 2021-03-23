@@ -8,13 +8,13 @@ a{color: black !important;
 background-color: #024b5c !important;	
 }
 .social-icons .social-icon:hover{
-	background-color: white !important;
+	background-color: blue !important;
 }
 
 a.i{
 color: white !important;
 }
 .svg-inline--fa {
-	color: transparent; !important;
+	color: white !important;
     overflow: visible;
 }
