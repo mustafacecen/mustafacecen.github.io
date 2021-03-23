@@ -1,12 +1,21 @@
-a{color: black !important;
+a
+{color: black !important;
 
-	} 
+	}
+
+a:hover
+{color: black !important;
+
+	}  
+
 .text-primary {
   color: #024b5c !important;
   }
+
 .bg-primary{
 background-color: #024b5c !important;	
 }
+
 .social-icons .social-icon:hover{
 	background-color: blue !important;
 }
@@ -14,7 +23,12 @@ background-color: #024b5c !important;
 a.i{
 color: white !important;
 }
+
 .svg-inline--fa {
 	color: white !important;
     overflow: visible;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
 }
