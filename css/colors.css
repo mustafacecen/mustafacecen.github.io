@@ -8,7 +8,10 @@ a{color: black !important;
 background-color: #024b5c !important;	
 }
 .social-icons .social-icon:hover{
-	background-color: #024b5c !important;
+	background-color: white !important;
+}
+.social-icons{
+	color: white !important;
 }
 a.i{
 color: white !important;
